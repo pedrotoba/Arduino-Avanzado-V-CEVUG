@@ -1,0 +1,26 @@
+#######################################
+# Tarea 2
+####################################### 
+# Class
+#######################################
+
+LEDT KEYWORD 1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+R1 KEYWORD 2
+R2 KEYWORD 2
+V1 KEYWORD 2
+LEDT KEYWORD 2
+highAll KEYWORD 2
+lowAll KEYWORD 2
+Parpadear KEYWORD 2
+green KEYWORD 2
+red KEYWORD 2
+
+#######################################
+# Constants
+#######################################
+ 
